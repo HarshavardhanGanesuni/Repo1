@@ -7,5 +7,8 @@ public class Test {
 
     public static void main(String[] args) {
         System.out.println("******Testing Class1**********");
+        System.out.println("******Testing1 Class1**********");
+        System.out.println("******Testing2 Class1**********");
+        
     }
 }

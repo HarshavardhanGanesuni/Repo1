@@ -8,5 +8,6 @@
 public class Example2 {
     public static void main(String[] args) {
         System.out.println("*********Second class of second project***************");
+        System.out.println("123456789");
     }
 }
